@@ -1,8 +1,0 @@
-{
-  "name": "map-scraper",
-  "private": true,
-  "workspaces": [
-    "apps/web",
-    "apps/worker"
-  ]
-}
