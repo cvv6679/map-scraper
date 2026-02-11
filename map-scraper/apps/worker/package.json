@@ -1,0 +1,13 @@
+{
+  "name": "worker",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/worker.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.5",
+    "playwright": "^1.41.2",
+    "uuid": "^9.0.1"
+  }
+}
